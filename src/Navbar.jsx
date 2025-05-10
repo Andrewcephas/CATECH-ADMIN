@@ -5,11 +5,11 @@ const Navbar = () => {
   return (
     <nav
       className="navbar navbar-expand-lg"
-      style={{ backgroundColor: "#890010" }}
+      style={{ backgroundColor: "#017020" }}
     >
       <div className="container-fluid">
         <a className="navbar-brand text-white" href="/">
-          Engoko Admin
+          Catech Admin
         </a>
       </div>
     </nav>

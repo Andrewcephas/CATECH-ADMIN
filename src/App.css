@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #017020; /* Catech green */
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -25,7 +25,14 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #ff9900; /* Catech orange */
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.App-link:hover {
+  color: #ffaa33; /* Slight hover effect */
+  text-decoration: underline;
 }
 
 @keyframes App-logo-spin {

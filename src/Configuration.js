@@ -4,13 +4,13 @@ import { getFirestore } from "firebase/firestore";
 import { getAuth, GoogleAuthProvider } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyB9IlG5WT3OiFBRxcxLmIKz4ZmiUacRC8c",
-  authDomain: "engoko-7c799.firebaseapp.com",
-  projectId: "engoko-7c799",
-  storageBucket: "engoko-7c799.appspot.com",
-  messagingSenderId: "280169725335",
-  appId: "1:280169725335:web:541b24274d2ae9e5d6d8d2",
-  measurementId: "G-M51Q4K0T47",
+  apiKey: "AIzaSyALENjlrdfv0qktbWf9Cc5fGTRWDKtoNsI",
+  authDomain: "catechsolution.firebaseapp.com",
+  projectId: "catechsolution",
+  storageBucket: "catechsolution.appspot.com", // ✅ Corrected
+  messagingSenderId: "311704816852",
+  appId: "1:311704816852:web:4d1f032345179658acff41",
+  measurementId: "G-SMWY68V5PB"
 };
 
 // Initialize Firebase
