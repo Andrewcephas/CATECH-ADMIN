@@ -16,7 +16,6 @@ import {
   Tabs,
   Image,
 } from "react-bootstrap";
-import Navbar from "./Navbar"; // Ensure this exists
 
 const AdminOrders = () => {
   const [orders, setOrders] = useState([]);
