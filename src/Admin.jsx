@@ -329,7 +329,7 @@ const AdminOrders = () => {
                               height="40"
                             />
                           </td>
-                          <td>{user.displayName}</td>
+                          <td>{user.name}</td>
                           <td>{user.email}</td>
                           <td>
                             <Button
